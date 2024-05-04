@@ -5,6 +5,7 @@
 Barcode scanning in inventory
 =============================
 This module will used for barcode scanning in inventory.
+and this is new update
 
 Depends
 =======
